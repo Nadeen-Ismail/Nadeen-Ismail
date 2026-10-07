@@ -22,7 +22,7 @@ These are company projects, so their code is private.
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [SkillBridge Dentistry](https://github.com/Nadeen-Ismail/SkillBridgeDentistry) | Graduation project, grade A*. A dental consultation platform where graduates submit cases, an AI model suggests a diagnosis, and consultants respond. | ASP.NET Core, EF Core, SQL Server, Hangfire, JWT |
+| [SkillBridge Dentistry](https://github.com/Nadeen-Ismail/SkillBridgeDentistry) | Graduation project, grade A*. A dental consultation platform where junior Doctors submit cases, an AI model suggests a diagnosis, and consultants respond. | ASP.NET Core, EF Core, SQL Server, Hangfire, JWT |
 | [Dental AI App](https://github.com/Nadeen-Ismail/DentalAIApp) | The image-classification service behind SkillBridge. It identifies 7 oral conditions from a photo and returns treatment guidance. | Python, PyTorch, FastAPI |
 | [Talabat](https://github.com/Nadeen-Ismail/Talabat) | E-commerce REST API with Onion Architecture, a Redis-backed basket, Stripe payments, and JWT authentication. | ASP.NET Core, EF Core, SQL Server, Redis, Stripe |
 
